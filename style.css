@@ -1,0 +1,27 @@
+#to-see {
+    margin: 2rem;
+}
+
+.my-heading {
+    font-weight: 600;
+    font-style: italic;
+    font-size: 1.5rem;
+}
+
+.my-body {
+    padding-bottom: 0.5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3rem;
+}
+
+hr {
+    border: 1px solid blue;
+}
+
+body {
+    background-color: gainsboro;
+}
